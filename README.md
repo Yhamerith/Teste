@@ -1,6 +1,6 @@
-<h1>Projeto para aprendizado de lógica em progração de JavaScript.</h1>
+<div style='text-align: center'><h1>Projeto para aprendizado de lógica em progração de JavaScript.</h1>
 
-<h2>Nele consta um jogo de advinhação de número simples.</h2>
+<h2>Nele consta um jogo de advinhação de número simples.</h2></div>
 
 <div>
   <ul>
